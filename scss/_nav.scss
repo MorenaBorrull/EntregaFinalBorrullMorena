@@ -1,0 +1,15 @@
+.botonera{
+    background-color: $mainColor;
+    img{
+        width: 50px;
+    }
+    a{
+        color: $secondaryColor;
+        &:hover{
+            color: $hoverColor;
+        }
+    }
+    svg{
+        fill: $secondaryColor;
+    }
+}    
