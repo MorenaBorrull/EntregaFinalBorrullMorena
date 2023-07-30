@@ -27,6 +27,7 @@ p {
 
 .background-color {
   background-color: #D2BA8C;
+  box-sizing: border-box;
 }
 
 .background-card-color {
@@ -146,6 +147,11 @@ p {
   justify-content: center;
 }
 
+@media (max-width: 768px) {
+  .flex-buttons {
+    flex-direction: column;
+  }
+}
 .img-contact {
   max-width: 50%;
   border-radius: 10%;

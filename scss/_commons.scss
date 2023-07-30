@@ -21,6 +21,7 @@ p{
 }
 .background-color{
     background-color: $secondaryColor;
+    box-sizing: border-box;
 } 
 .background-card-color{
     background-color: $cardColor;
@@ -118,6 +119,11 @@ align-items: center;
     display: flex;
     align-content: center;
     justify-content: center;
+}
+@media (max-width: 768px) {
+    .flex-buttons{
+        flex-direction: column;
+    }
 }
 .img-contact{
     max-width: 50%;
