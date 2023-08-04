@@ -22,7 +22,7 @@ Asigné efecto hover a los botones de la NAV y de los Formularios.
 
 El logo utilizado es el que le pertenece a la Agencia. 
 
-**Link a repositorio:** https://github.com/MorenaBorrull/PreEntrega3BorrullMorena.git
+**Link a repositorio:** 
 
 **Link a pages:** https://morenaborrull.github.io/EntregaFinalBorrullMorena/
 
