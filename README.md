@@ -10,11 +10,11 @@ Los colores utilizados son los que corresponden al logo y los que utiliza la age
 
 # En el proyecto se utilizaron los siguientes lenguajes:
 
-**HTML5 CSS3**
+**HTML5 y CSS3**
 
 # FRAMEWORKS 
 
-**SASS BOOTSTRAP**
+**SASS y BOOTSTRAP**
 
 Utilicé bootstrap para la NAV, el Carrusel de imagenes del index y para las CARDS en la página de Nuestros Servicios así como para las cajas de texto de los formularios.
 
