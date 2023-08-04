@@ -24,7 +24,7 @@ El logo utilizado es el que le pertenece a la Agencia.
 
 **Link a repositorio:** https://github.com/MorenaBorrull/PreEntrega3BorrullMorena.git
 
-**Link a pages:** 
+**Link a pages:** https://morenaborrull.github.io/EntregaFinalBorrullMorena/
 
 **Link a servidor:** 
 
