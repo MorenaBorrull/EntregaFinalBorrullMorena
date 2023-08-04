@@ -20,12 +20,12 @@ Utilicé bootstrap para la NAV, el Carrusel de imagenes del index y para las CAR
 
 Asigné efecto hover a los botones de la NAV y de los Formularios.
 
-El logo utilizado es el que le pertenece a la Agencia. 
+# Links
 
 **Link a repositorio:** https://github.com/MorenaBorrull/EntregaFinalBorrullMorena
 
 **Link a pages:** https://morenaborrull.github.io/EntregaFinalBorrullMorena/
 
-**Link a servidor:** 
+**Link a servidor:** https://momamarketing.netlify.app/
 
 Morena Borrull
