@@ -116,9 +116,7 @@ align-items: center;
     justify-content: center;
 }
 .flex-buttons{
-    display: flex;
-    align-content: center;
-    justify-content: center;
+    @extend .flex-container;
 }
 @media (max-width: 768px) {
     .flex-buttons{
@@ -156,14 +154,17 @@ align-items: center;
 .text-dark{
     color: #552227;
 }
+@mixin text-side ($side){
+    text-align: $side;
+}
 .text-left{
-    text-align: left;
+    @include text-side (left)
 }
 .text-center{
-    text-align: justify;
+    @include text-side (justify)
 }
 .text-right{
-    text-align: right;
+    @include text-side (right)
 }
 .text-italic{
     font-style: italic;

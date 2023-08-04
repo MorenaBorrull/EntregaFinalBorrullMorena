@@ -135,15 +135,9 @@ p {
   background-color: #6e3339;
 }
 
-.flex-container {
+.flex-container, .flex-buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
-}
-
-.flex-buttons {
-  display: flex;
-  align-content: center;
   justify-content: center;
 }
 
@@ -160,7 +154,7 @@ p {
 }
 
 @media (max-width: 768px) {
-  .flex-container {
+  .flex-container, .flex-buttons {
     flex-direction: column;
   }
   .img-contact {
